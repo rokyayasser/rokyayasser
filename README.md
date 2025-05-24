@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rokya Yasser</h1>
-<h3 align="center">Software Engineer | Mobile Developer | Cross-Platform Enthusiast</h3>
+<h3 align="center">Software Engineer | Mobile Developer | Cross-Platform </h3>
 
 <p align="center">
   <a href="mailto:rokyayasser@gmail.com"><img src="https://img.shields.io/badge/email-rokyayasser@gmail.com-red?style=flat-square&logo=gmail"></a>
